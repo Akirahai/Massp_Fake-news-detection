@@ -28,8 +28,6 @@ Next, make sure to install the necessary dependencies. You can create a Python v
 
 ```bash
 cd Massp_Fake-news-detection
-python -m venv venv
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 pip install -r requirements.txt
 ```
 
